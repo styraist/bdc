@@ -11,7 +11,6 @@ Time Complexity: Dizi sıralandıktan sonra 18 sayısı average case kapsamına 
 
 .
 
-
 Selection Sort Project
 [7,3,5,8,2,9,4,15,6] n
 [2|3,5,8,7,9,4,15,6] n-1
